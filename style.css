@@ -1,0 +1,21 @@
+
+
+.wtf img{
+max-width: 100%;
+ 
+}
+
+.cardz {
+  width: 33%;
+  height: 100%;
+}
+
+.image-1 {
+  background-image: url("tractor.png");
+  background-size: cover;
+}
+
+.card {
+  align-items: flex-end;
+}
+
